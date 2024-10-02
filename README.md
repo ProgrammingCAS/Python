@@ -27,7 +27,7 @@ It was an easy project but I still learned more features of the print funciton i
 
 Day 30: 
 
-For the past few days I have been working on creating a simple python weather script that uses an external api to calculate the weather on specified cordinates. Learning how to implement apis took some time therefore this project took slightly longer then expected. Overall I am satisfied with the result.
+For the past few days I have been working on creating a simple python weather script that uses an external api to calculate the weather on specified cordinates. Learning how to implement apis took some time therefore this project took slightly longer then expected. Overall I am satisfied with the result. The finished file is called weather_calc.py.
 
 8 hours
 
